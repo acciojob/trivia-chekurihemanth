@@ -1,5 +1,10 @@
 
 /* Your CSS Code here. */
 blockquote{
-	
+	Max-width: 600px;
+    Margin: 10px;
+    Padding: 15px;
+    border-left: 8px solid green;
+    background-color: #f8fffe;
+    font-weight: bold;
 }
